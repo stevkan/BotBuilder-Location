@@ -1,5 +1,5 @@
 import * as builder from "botbuilder";
-import { RawLocation } from "./rawLocation";
+import { RawLocation } from "../rawLocation";
 
 //=============================================================================
 //
